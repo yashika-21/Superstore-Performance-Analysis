@@ -11,5 +11,3 @@ To project aims to analyze the superstore’s sales & profits across time, regio
 ## Excel Dashboard
 ![dashboard page 1](https://github.com/user-attachments/assets/88bd9faf-a446-4af8-9349-6504c3f5ac00)
 ![dashboard page 2](https://github.com/user-attachments/assets/18b3fc7f-9eb5-430e-887e-52eec6dc645c)
-
-[Superstore Analysis Report.pdf](https://github.com/user-attachments/files/20263876/Superstore.Analysis.Report.pdf)
